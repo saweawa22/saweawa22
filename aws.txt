@@ -1,0 +1,4 @@
+Public DNS	ec2-52-90-17-95.compute-1.amazonaws.com
+User name	Administrator
+Password	
+dSr.sHmF*)y=YcxNh4cm3eDzsuWou5TO
